@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./summaphilosophic03zigluoft_0010.png"; bbox 0 0 1529 2569; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 146 930 1436 980">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 146 930 1436 980">
+     <span class='ocr_line' id='line_1_1' title="bbox 146 930 1436 980; baseline 0.001 -13"><span class='ocrx_word' id='word_1_1' title='bbox 146 930 303 970; x_wconf 84' lang='lat' dir='ltr'>Nemini</span> <span class='ocrx_word' id='word_1_2' title='bbox 331 932 417 969; x_wconf 85' lang='lat' dir='ltr'>sine</span> <span class='ocrx_word' id='word_1_3' title='bbox 441 932 618 970; x_wconf 78' lang='lat' dir='ltr'><strong>Auctoris</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 640 932 827 970; x_wconf 81' lang='lat' dir='ltr'>facultate</span> <span class='ocrx_word' id='word_1_5' title='bbox 847 943 1022 974; x_wconf 80' lang='lat' dir='ltr'><strong>nraesens</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 1043 943 1140 980; x_wconf 85' lang='lat' dir='ltr'>opus</span> <span class='ocrx_word' id='word_1_7' title='bbox 1164 932 1280 969; x_wconf 84' lang='lat' dir='ltr'>edere</span> <span class='ocrx_word' id='word_1_8' title='bbox 1306 932 1436 969; x_wconf 83' lang='lat' dir='ltr'>liceat.</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
